@@ -1,0 +1,138 @@
+Course One
+Foundations of Data Science
+ 
+
+
+Instructions 
+Use this PACE strategy document to record decisions and reflections as you work through this end-of-course project. You can use this document as a guide to consider your responses and reflections at different stages of the data analytical process. Additionally, the PACE strategy documents can be used as a resource when working on future projects.
+
+Course Project Recap
+Regardless of which track you have chosen to complete, your goals for this project are: 
+●	Complete the PACE Strategy Document to plan your project while considering your audience members, teammates, key milestones, and overall project goal. 
+●	Create a project proposal for the data team.
+
+Relevant Interview Questions 
+Completing this end-of-course project will empower you to respond to the following interview topics: 
+●	As a new member of a data analytics team, what steps could you take to get 'up to speed' with a current project? What steps would you take? Who would you like to meet with?
+●	How would you plan an analytics project?
+●	What steps would you take to translate a business question to an analytical solution?
+●	Why is actively managing data an important part of a data analytics team's responsibilities? 
+●	What are some considerations you might need to be mindful of when reporting results?
+
+ 
+Reference Guide
+This project has three tasks; the following visual identifies how the stages of PACE are incorporated across those tasks.  
+ 
+
+
+Data Project Questions & Considerations 
+ PACE: Plan Stage
+
+●	Who is your audience for this project? 
+
+Waze’s Leadership
+
+
+●	What are you trying to solve or accomplish? And, what do you anticipate the impact of this work will be on the larger needs of the client? 
+
+They are trying to identify why is churn happening and help prevent it.
+
+Issue: Idenity the reason for churn
+
+Impact: To understand the reason of churn and how to reduce it
+
+
+
+
+●	What questions need to be asked or answered?
+
+What is the user base? 
+
+Where can I find my data to analyze?
+
+
+●	What resources are required to complete this project? 
+
+Python, Machine learning, Tableau, Excel
+
+●	What are the deliverables that will need to be created over the course of this project? 
+
+Analyze the Data, Come up with a plan for model, Construct the Model and give meaningful insights
+
+
+THE PACE WORKFLOW
+
+[Alt-text: The PACE Workflow with the four stages in a circle: plan, analyze, construct, and execute.]
+
+You have been asked to demonstrate for the company's data team how you would use the PACE workflow to organize and classify tasks for the upcoming project. Select a PACE stage from the dropdown buttons. A few tasks involve more than one stage of the PACE workflow. Additionally, not every workplace scenario will require every task. Refer back to the Course 1 end-of-course portfolio project overview reading if you need more information about the tasks within the project.
+
+
+
+
+
+
+
+Project tasks
+Following are a group of tasks your company’s data team has determined need to be completed within this project. The data analysis manager has asked you to organize these tasks in preparation for the project proposal document. First, identify which stage of the PACE workflow each task would best fit under using the drop down menu. Next, give an explanation of why you selected the stage for each task. Review the following readings to help guide your selections and explanation: The PACE stages and Communicate objectives with a project proposal. You will later reorder these tasks within a project proposal.
+ 
+
+1.	Evaluating the model: Select PACE stage
+Why did you select this stage for this task?
+
+
+
+2.	Conduct hypothesis testing: Select PACE stage and Select PACE stage
+Why did you select these stages for this task?
+
+
+
+3.	Begin exploring the data: Select PACE stage
+Why did you select this stage for this task?
+
+
+
+4.	Data exploration and cleaning: Select PACE stage and Select PACE stage
+Why did you select these stages for this task?
+
+
+
+5.	Establish structure for project workflow (PACE):  Select PACE stage
+Why did you select this stage for this task?
+
+
+
+6.	Communicate final insights with stakeholders: Select PACE stage
+Why did you select this stage for this task?
+
+
+
+7.	Compute descriptive statistics: Select PACE stage
+Why did you select this stage for this task?
+
+
+
+8.	Visualization building: Select PACE stage and Select PACE stage
+Why did you select these stages for this task?
+
+
+
+9.	Write a project proposal: Select PACE stage
+Why did you select this stage for this task?
+
+
+
+10.	Build a regression model: Select PACE stage and Select PACE stage
+Why did you select this stage for this task?
+
+
+
+11.	Compile summary information about the data: Select PACE stage
+Why did you select this stage for this task?
+
+
+
+12.	Build machine learning model: Select PACE stage
+Why did you select this stage for this task?
+
+
+
